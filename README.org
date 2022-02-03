@@ -1,0 +1,20 @@
+#+TITLE: Capstone Student Resources
+* Customizable Documentation Repository
+This is a resource to allow you to conveniently browse documentation from one central location. This is especially useful for React/Redux as you can query one set of documentations to get information really quickly, instead of wading through outdated tutorials/articles on Google.
+https://devdocs.io/
+
+* Color scheme generator
+This application alleges to use color theory to create a customized color pallette. You can cycle through possible color matches as you "lock them in". If you want to start from an image as an inspiration for the page, you can also generate the color palette from it and modify as you want. Exports to hex are free.
+https://coolors.co/
+
+* CSS Grid Generator
+This application is particularly nice. CSS grids are fantastic for creating predictable, stable CSS layouts. Laying out your page via a grid before working on subcomponents can save you a lot of CSS headaches and superfluous code. Grid sections synergize especially well with React components.
+https://cssgrid-generator.netlify.app/
+
+* Project Starters
+Since you're here, I may as well link you to both project starters.
+** Flask
+https://github.com/appacademy-starters/python-project-starter
+** Express
+(do you really want to use express...?)
+https://github.com/appacademy-starters/react-project-starter
