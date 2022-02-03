@@ -15,6 +15,10 @@ https://coolors.co/
 This application is particularly nice. CSS grids are fantastic for creating predictable, stable CSS layouts. Laying out your page via a grid before working on subcomponents can save you a lot of CSS headaches and superfluous code. Grid sections synergize especially well with React components.
 https://cssgrid-generator.netlify.app/
 
+* Additional Resources: stock photos, fonts, icons ...
+Here is Brad Traversy's famous respository of resources. There's so much stuff you can find in here quickly. *Do _NOT_ copy/paste code*, your project will /never/ be stable if you do not understand what you are doing.
+https://github.com/bradtraversy/design-resources-for-developers
+
 * Project Starters
 Since you're here, I may as well link you to both project starters.
 - Flask
