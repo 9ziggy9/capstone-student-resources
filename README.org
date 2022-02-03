@@ -17,8 +17,8 @@ https://cssgrid-generator.netlify.app/
 
 * Project Starters
 Since you're here, I may as well link you to both project starters.
-***** Flask
-https://github.com/appacademy-starters/python-project-starter
-***** Express
-(do you really want to use express...?)
-https://github.com/appacademy-starters/react-project-starter
+- Flask
+    https://github.com/appacademy-starters/python-project-starter
+- Express
+    (do you really want to use express...?)
+    https://github.com/appacademy-starters/react-project-starter
