@@ -7,7 +7,7 @@ Anything suggested here is just like, my opinion, man.
 This is a resource to allow you to conveniently browse documentation from one central location. This is especially useful for React/Redux as you can query one set of documentations to get information really quickly, instead of wading through outdated tutorials/articles on Google.
 https://devdocs.io/
 
-* Color scheme generator
+* Color Scheme Generator
 This application alleges to use color theory to create a customized color pallette. You can cycle through possible color matches as you "lock them in". If you want to start from an image as an inspiration for the page, you can also generate the color palette from it and modify as you want. Exports to hex are free.
 https://coolors.co/
 
