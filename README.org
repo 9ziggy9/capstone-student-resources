@@ -12,7 +12,7 @@ This application alleges to use color theory to create a customized color pallet
 https://coolors.co/
 
 * CSS Grid Generator
-This application is particularly nice. CSS grids are fantastic for creating predictable, stable CSS layouts. Laying out your page via a grid before putting pen to paper can save you a lot of CSS headaches and superfluous code. Grid sections synergize especially well with React components.
+This application is particularly nice. CSS grids are fantastic for creating predictable, stable CSS layouts. Laying out your page via a grid can save you a lot of CSS headaches and superfluous code. Grid sections synergize especially well with React components. The only problem with grids is that making anything of any substantial complexity can be quite daunting and realistically, to design a quality CSS grid, one generally first puts pen to paper and translates from there. Work smarter, not harder, use this instead.
 https://cssgrid-generator.netlify.app/
 
 * Additional Resources: stock photos, fonts, icons ...
