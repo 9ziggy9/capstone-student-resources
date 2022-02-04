@@ -3,8 +3,16 @@ Anything suggested here is just like, my opinion, man.
 #+CAPTION: This is the caption for the next figure link (or table)
 #+NAME:   fig:like-my-opinion-1
 [[./img/a.jpg]]
-* Table of Contents
-:TOC:
+* Table of Contents :TOC:
+- [[#capstone-student-resources][Capstone Student Resources]]
+- [[#customizable-documentation-repository][Customizable Documentation Repository]]
+- [[#color-scheme-generator][Color Scheme Generator]]
+- [[#css-grid-generator][CSS Grid Generator]]
+- [[#wireframing][Wireframing]]
+- [[#additional-resources-stock-photos-fonts-icons-][Additional Resources: stock photos, fonts, icons ...]]
+- [[#heroku-pinger][Heroku Pinger]]
+- [[#project-starters][Project Starters]]
+
 * Customizable Documentation Repository :Custom:Docs:
 This is a resource to allow you to conveniently browse documentation from one central location. This is especially useful for React/Redux as you can query one set of documentations to get information really quickly, instead of wading through outdated tutorials/articles on Google.
 https://devdocs.io/
