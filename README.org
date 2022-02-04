@@ -15,6 +15,8 @@ https://coolors.co/
 This application is particularly nice. CSS grids are fantastic for creating predictable, stable CSS layouts. Laying out your page via a grid can save you a lot of CSS headaches and superfluous code. Grid sections synergize especially well with React components. The only problem with grids is that making anything of any substantial complexity can be quite daunting and realistically, to design a quality CSS grid, one generally first puts pen to paper and translates from there. Work smarter, not harder, use this instead.
 https://cssgrid-generator.netlify.app/
 
+* Wireframing
+In my humble opinion, wireframing software is ridiculously complex. Simple is best, and this is the simplest I know of. https://draw.io/
 * Additional Resources: stock photos, fonts, icons ...
 Here is Brad Traversy's famous respository of resources. There's so much stuff you can find in here quickly. *Do NOT copy/paste code*, your project will /never/ be stable if you do not understand what you are doing.
 https://github.com/bradtraversy/design-resources-for-developers
