@@ -1,4 +1,4 @@
-#+TITLE: Capstone Student Resources
+* Capstone Student Resources
 Anything suggested here is just like, my opinion, man.
 #+CAPTION: This is the caption for the next figure link (or table)
 #+NAME:   fig:like-my-opinion-1
