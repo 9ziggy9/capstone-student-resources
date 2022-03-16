@@ -39,11 +39,3 @@ https://github.com/bradtraversy/design-resources-for-developers
 
 * Heroku Pinger :Heroku:Pinger:
 This utility is a creation of a friend and fellow aA alum (Revan Fajardo). To keep your Heroku alive and avoid dyno reloading, you can use this to automate pinging of your application; this is especially useful once you start Career Quest. https://github.com/riousenkai/PingHerokuApp
-
-* Project Starters :Starters:
-Since you're here, I may as well link you to both project starters.
-- Flask
-    https://github.com/appacademy-starters/python-project-starter
-- Express
-    (do you really want to use express...?)
-    https://github.com/appacademy-starters/react-project-starter
