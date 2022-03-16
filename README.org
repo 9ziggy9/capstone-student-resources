@@ -12,7 +12,6 @@ Anything suggested here is just like, my opinion, man.
 - [[#git-help][Git Help]]
 - [[#additional-resources-stock-photos-fonts-icons-][Additional Resources: stock photos, fonts, icons ...]]
 - [[#heroku-pinger][Heroku Pinger]]
-- [[#project-starters][Project Starters]]
 
 * Customizable Documentation Repository :Custom:Docs:
 This is a resource to allow you to conveniently browse documentation from one central location. This is especially useful for React/Redux as you can query one set of documentations to get information really quickly, instead of wading through outdated tutorials/articles on Google.
