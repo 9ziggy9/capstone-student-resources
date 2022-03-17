@@ -28,6 +28,9 @@ https://cssgrid-generator.netlify.app/
 * Wireframing :Wireframing:
 In my humble opinion, wireframing software is ridiculously complex. Simple is best, and this is the simplest I know of. https://draw.io/
 
+* DB Diagramming
+1000x prettier than dbdiagram. https://drawsql.app/
+
 * Git Help
 - Here is the definitive git resource; if you find yourself struggling with git, you may want to consider devoting some time to reading this. Just the first 4 chapters will tremendously improve your understanding of git. https://git-scm.com/book/en/v2
 - For quick and dirty answers (i.e. you forgot a command): https://www.git-tower.com/learn/git/faq
