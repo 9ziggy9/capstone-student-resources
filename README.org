@@ -35,6 +35,10 @@ In my humble opinion, wireframing software is ridiculously complex. Simple is be
 - Here is the definitive git resource; if you find yourself struggling with git, you may want to consider devoting some time to reading this. Just the first 4 chapters will tremendously improve your understanding of git. https://git-scm.com/book/en/v2
 - For quick and dirty answers (i.e. you forgot a command): https://www.git-tower.com/learn/git/faq
 
+* Free Fonts
+The best way to find free fonts, experiment with design
+https://fontflipper.com/upload
+
 * Additional Resources: stock photos, fonts, icons ... :Additional:
 Here is Brad Traversy's famous respository of resources. There's so much stuff you can find in here quickly. *Do NOT copy/paste code*, your project will /never/ be stable if you do not understand what you are doing.
 https://github.com/bradtraversy/design-resources-for-developers
